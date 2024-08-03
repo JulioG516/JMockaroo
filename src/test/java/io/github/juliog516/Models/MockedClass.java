@@ -1,8 +1,8 @@
 package io.github.juliog516.Models;
 
-import io.github.juliog516.Helpers.DataTypes;
-import io.github.juliog516.Helpers.MockElement;
-import io.github.juliog516.Helpers.MockableObject;
+import io.github.juliog516.JMockaroo.Helpers.DataTypes;
+import io.github.juliog516.JMockaroo.Helpers.MockElement;
+import io.github.juliog516.JMockaroo.Helpers.MockableObject;
 
 import java.util.Objects;
 

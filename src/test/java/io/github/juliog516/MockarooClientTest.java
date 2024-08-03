@@ -1,15 +1,9 @@
 package io.github.juliog516;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.node.ArrayNode;
-import com.fasterxml.jackson.databind.node.JsonNodeFactory;
-import io.github.juliog516.Helpers.JMockarooException;
+import io.github.juliog516.JMockaroo.Helpers.JMockarooException;
+import io.github.juliog516.JMockaroo.MockarooClient;
 import io.github.juliog516.Models.MockedClass;
 import junit.framework.TestCase;
-
-import java.io.File;
-import java.io.IOException;
 
 public class MockarooClientTest extends TestCase {
 

@@ -1,4 +1,4 @@
-package io.github.juliog516.Helpers;
+package io.github.juliog516.JMockaroo.Helpers;
 
 public enum DataTypes {
     AddressLine2("Address Line 2"),

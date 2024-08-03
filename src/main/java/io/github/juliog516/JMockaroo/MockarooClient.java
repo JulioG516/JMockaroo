@@ -1,4 +1,4 @@
-package io.github.juliog516;
+package io.github.juliog516.JMockaroo;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JavaType;
@@ -6,9 +6,9 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.JsonNodeFactory;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-import io.github.juliog516.Helpers.JMockarooException;
-import io.github.juliog516.Helpers.MockElement;
-import io.github.juliog516.Helpers.MockableObject;
+import io.github.juliog516.JMockaroo.Helpers.JMockarooException;
+import io.github.juliog516.JMockaroo.Helpers.MockElement;
+import io.github.juliog516.JMockaroo.Helpers.MockableObject;
 import org.apache.http.client.utils.URIBuilder;
 
 import java.io.IOException;
