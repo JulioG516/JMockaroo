@@ -1,8 +1,8 @@
-package io.github.juliog516;
+package io.github.juliog516.JMockarooTests;
 
 import io.github.juliog516.JMockaroo.Helpers.JMockarooException;
 import io.github.juliog516.JMockaroo.MockarooClient;
-import io.github.juliog516.Models.MockedClass;
+import io.github.juliog516.JMockarooTests.Models.MockedClass;
 import junit.framework.TestCase;
 
 public class MockarooClientTest extends TestCase {

@@ -1,4 +1,4 @@
-package io.github.juliog516.Models;
+package io.github.juliog516.JMockarooTests.Models;
 
 import io.github.juliog516.JMockaroo.Helpers.DataTypes;
 import io.github.juliog516.JMockaroo.Helpers.MockElement;
